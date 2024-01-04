@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="star">
+    <file>star.png</file>
+  </qresource>
+  <qresource prefix="loser">
+    <file>lose.jpg</file>
+  </qresource>
+  <qresource prefix="rps">
+    <file>rock-paper-scissors.png</file>
+  </qresource>
+  <qresource prefix="win">
+    <file>winner.jpg</file>
+  </qresource>
+  <qresource prefix="scissors">
+    <file>scissors.png</file>
+  </qresource>
+  <qresource prefix="paper">
+    <file>paper.png</file>
+  </qresource>
+  <qresource prefix="rock">
+    <file>rock.png</file>
+  </qresource>
+</RCC>
