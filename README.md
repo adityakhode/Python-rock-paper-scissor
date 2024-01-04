@@ -1,7 +1,7 @@
 This Game is made using python. Has simple GUI interface made with the help of Qt Designer tool.
 
 
-To run this programme run main.py 
+To run this code run main.py 
 
 
 
