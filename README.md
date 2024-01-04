@@ -32,3 +32,8 @@ Libraries used
 ![image3](https://github.com/adityakhode/Python-rock-paper-scissor/assets/113977001/8e35bdc2-f6de-45ef-a0d7-95ee4ed00b2d)
 
 
+
+
+
+Code is Made for Fun by Aditya Khode 
+< /Happy Coding ! >
