@@ -13,6 +13,7 @@ Directory explaination
 #________________________________________________________________________________________________________________
 
 To convert the ui file to .py file 
+
            $ pyuic5 -x <ui file name.ui> -o <your filename.py>
            $ pyrcc5 -o <your filename.py> <qrc filename>
            commands to convert ui and qrc file to .py for linux 
